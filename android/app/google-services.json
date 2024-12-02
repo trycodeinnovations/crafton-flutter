@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "447213125561",
+    "project_id": "crafton-587ca",
+    "storage_bucket": "crafton-587ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447213125561:android:0266d6816b2078c8234068",
+        "android_client_info": {
+          "package_name": "com.example.crafton"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1NOuBlPjMig_7mWzAG5655IHltdQBXkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
